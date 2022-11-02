@@ -16,10 +16,7 @@
 
 import UIKit
 
-
-
 public struct PinterestSegmentStyle {
-
 
 
     public var indicatorColor = UIColor(white: 0.95, alpha: 1)
@@ -959,3 +956,4 @@ extension UILabel {
     }
 
 }
+
